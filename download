@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-server/database.db
-*.db
-.venv/
-.DS_Store
